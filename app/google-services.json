@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "767347511986",
+    "firebase_url": "https://otpauthtry.firebaseio.com",
+    "project_id": "otpauthtry",
+    "storage_bucket": "otpauthtry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767347511986:android:ec4411ffabcf479be6afab",
+        "android_client_info": {
+          "package_name": "com.example.otpauthtry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767347511986-2331d6lojnbr7uk93dh989fee9rlqreq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCJHnLfm9WdjXXN_zzibP0HcbB-poxQbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767347511986-2331d6lojnbr7uk93dh989fee9rlqreq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
